@@ -6,11 +6,11 @@ main:
     url: /projects/
     weight: 2
     child:
-      - name: "Project Layout 1"
+      - name: "Lloyds Banking"
         icon: "/assets/images/icons/wireframe-7.svg"
         icon_darkmode: "/assets/images/icons/wireframe-7-white.svg"
         description: "Default Project layout"
-        url: /projects/project-1/
+        url: /projects/lloyds/
       - name: "Project Layout 2"
         icon: "/assets/images/icons/wireframe-5.svg"
         icon_darkmode: "/assets/images/icons/wireframe-5-white.svg"
@@ -26,9 +26,9 @@ main:
         icon_darkmode: "/assets/images/icons/wireframe-8-white.svg"
         description: "Top layout"
         url: /projects/project-4/
-  - name: Blog
-    url: /blog/
-    weight: 2
+  # - name: Blog
+  #   url: /blog/
+  #   weight: 2
   - name: About
     url: /about/
     weight: 3
