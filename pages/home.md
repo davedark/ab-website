@@ -1,10 +1,10 @@
 ---
 layout: home
 permalink: "/"
-title: "Curate is a premium portfolio for <strong>Jekyll.</strong>"
-description: "Showcase your projects, work and portfolio with multiple layouts and styles."
+title: "UX Consultant. <strong>Hurrah.</strong>"
+description: "Adrian Brereton is a UX professional with over 15 years' experience. Check out his work. "
 meta_description: "Jekyll Curate is a premium Jekyll blog theme"
-meta_title: Jekyll Curate
+meta_title: Adrian Brereton -- homey
 subscribe: false
 
 projects:
