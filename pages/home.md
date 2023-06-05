@@ -2,9 +2,9 @@
 layout: home
 permalink: "/"
 title: "UX Consultant. <strong>Hurrah.</strong>"
-description: "Adrian Brereton is a UX professional with over 15 years' experience. Check out his work. "
-meta_description: "Jekyll Curate is a premium Jekyll blog theme"
-meta_title: Adrian Brereton -- homey
+description: "Adrian Brereton is a UX professional with over 15 years' experience desiging and building digital products."
+meta_description: "Adrian Brereton is a UX professional with over 15 years' experience desiging and building digital products."
+meta_title: Adrian Brereton -- home
 subscribe: false
 
 projects:

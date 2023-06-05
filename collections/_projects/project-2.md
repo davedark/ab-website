@@ -15,7 +15,11 @@ gallery:
 gallery_limit: 2
 ---
 
+
+
 Architecture is both the process and the product of planning, designing, and constructing buildings or other structures.Architectural works, in the material form of buildings, are often perceived as cultural symbols and as works of art.
+
+{% include framework/shortcodes/figure.html src="/assets/images/gen/content/content-1.webp" title="Steve Francia" caption="Designing in Figma" alt="Photo of designing a website in Figma" link="https://figma.com" target="\_blank" %}
 
 The practice, which began in the prehistoric era, has been used as a way of expressing culture for civilizations on all seven continents.
 

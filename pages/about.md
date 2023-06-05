@@ -1,46 +1,24 @@
 ---
 layout: basic
-title: "About Us"
+title: "About"
 date: 2018-11-28T15:15:34+10:00
 permalink: "/about/"
-description: "Business plan hackathon handshake responsive web design."
+description: "All about me"
+meta_description: "Jekyll Curate is a premium Jekyll blog theme"
+meta_title: Adrian Brereton -- about
 image: "/assets/images/gen/content/content-5.webp"
 ---
 
-# Creating Modern Websites
+I'm Adrian, a designer with over 15 years' experience in both design and development.
 
-Web design encompasses many different skills and disciplines in the production and maintenance of websites.
+I’ve worked in government, tech start-ups, computer game studios and large e-commerce retailers. I'm currently working at RBS, building a HR platform for business bank customers.
 
-Often many individuals will work in teams covering different aspects of the design process, although some designers will cover them all. Web design partially overlaps web engineering in the broader scope of web development.
+My day-to-day work is UX and UI design. From a UX perspective, I love getting involved in user testing and understanding the needs of different users in a digital product.
 
-## What is Web Design?
+I’m also more than happy bringing these ideas to life in the UI, from early sketches up to high fidelity mocks.
 
-User experience is about how a user interacts with, and experiences, a particular product, system or service. As a UX designer, you should consider the Why, What and How of product use.
+My favourite way of working is to see a project from inception through to delivery and iterating often throughout the project lifecycle. I’m happiest seeing my ideas come to life through prototyping and validating these assumptions.
 
-{% include framework/shortcodes/figure.html src="/assets/images/gen/content/content-1.webp" title="Steve Francia" caption="Designing in Figma" alt="Photo of designing a website in Figma" link="https://figma.com" target="\_blank" %}
+I still like to get involved with the build stage of the product, and often get my hands dirty in the code. There’s no better way to build prototypes and test user interactions, other than diving straight into the browser.
 
-## Front-end Development
-
-The What addresses the things people can do with a product—its functionality. Finally, the How relates to the design of functionality in an accessible and aesthetically pleasant way. UX designers start with the Why before determining the What and then, finally, the How in order to create products that users can form meaningful experiences with. In software designs, you will need to ensure the product’s “substance” comes through an existing device and offers a seamless, fluid experience.
-
-> As a UX designer, you should consider the Why, What and How of product use.
-
-Web designers are expected to have an awareness of usability and if their role involves creating markup then they are also expected to be up to date with web accessibility guidelines.
-
-## Design Systems
-
-A Design System is a set of interconnected patterns and shared practices coherently organized to aid in digital product design and development of products such as apps or websites.
-
-{% include framework/shortcodes/youtube.html id='2M6dJ2Uynhg' %}
-
-## Process
-
-There are two primary jobs involved in creating a website: the web designer and web developer, who often work closely together on a website. The web designers are responsible for the visual aspect, which includes the layout, coloring and typography of a web page.
-
-- User experience research
-- Visual design and illustration
-- Programming and coding
-
-![Design In Figma]({{ "/assets/images/gen/content/content-2.webp" | relative_url }})
-
-Web designers will also have a working knowledge of markup languages such as HTML and CSS, although the extent of their knowledge will differ from one web designer to another.
+<a class='button' href='/about'>Find out more</a>
